@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\priyadarshini roy\\source\\repos\\Coding prac\\Coding prac\\Coding prac.csproj": {}
+    "C:\\Users\\priyadarshini roy\\Source\\Repos\\Coding prac\\Coding prac\\Coding prac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\priyadarshini roy\\source\\repos\\Coding prac\\Coding prac\\Coding prac.csproj": {
+    "C:\\Users\\priyadarshini roy\\Source\\Repos\\Coding prac\\Coding prac\\Coding prac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\priyadarshini roy\\source\\repos\\Coding prac\\Coding prac\\Coding prac.csproj",
+        "projectUniqueName": "C:\\Users\\priyadarshini roy\\Source\\Repos\\Coding prac\\Coding prac\\Coding prac.csproj",
         "projectName": "Coding prac",
-        "projectPath": "C:\\Users\\priyadarshini roy\\source\\repos\\Coding prac\\Coding prac\\Coding prac.csproj",
+        "projectPath": "C:\\Users\\priyadarshini roy\\Source\\Repos\\Coding prac\\Coding prac\\Coding prac.csproj",
         "packagesPath": "C:\\Users\\priyadarshini roy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\priyadarshini roy\\source\\repos\\Coding prac\\Coding prac\\obj\\",
+        "outputPath": "C:\\Users\\priyadarshini roy\\Source\\Repos\\Coding prac\\Coding prac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\priyadarshini roy\\AppData\\Roaming\\NuGet\\NuGet.Config",
