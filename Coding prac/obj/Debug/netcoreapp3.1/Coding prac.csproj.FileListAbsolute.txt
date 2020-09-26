@@ -1,0 +1,13 @@
+C:\Users\priyadarshini roy\source\repos\Coding prac\Coding prac\bin\Debug\netcoreapp3.1\Coding prac.exe
+C:\Users\priyadarshini roy\source\repos\Coding prac\Coding prac\bin\Debug\netcoreapp3.1\Coding prac.deps.json
+C:\Users\priyadarshini roy\source\repos\Coding prac\Coding prac\bin\Debug\netcoreapp3.1\Coding prac.runtimeconfig.json
+C:\Users\priyadarshini roy\source\repos\Coding prac\Coding prac\bin\Debug\netcoreapp3.1\Coding prac.runtimeconfig.dev.json
+C:\Users\priyadarshini roy\source\repos\Coding prac\Coding prac\bin\Debug\netcoreapp3.1\Coding prac.dll
+C:\Users\priyadarshini roy\source\repos\Coding prac\Coding prac\bin\Debug\netcoreapp3.1\Coding prac.pdb
+C:\Users\priyadarshini roy\source\repos\Coding prac\Coding prac\obj\Debug\netcoreapp3.1\Coding prac.csprojAssemblyReference.cache
+C:\Users\priyadarshini roy\source\repos\Coding prac\Coding prac\obj\Debug\netcoreapp3.1\Coding prac.AssemblyInfoInputs.cache
+C:\Users\priyadarshini roy\source\repos\Coding prac\Coding prac\obj\Debug\netcoreapp3.1\Coding prac.AssemblyInfo.cs
+C:\Users\priyadarshini roy\source\repos\Coding prac\Coding prac\obj\Debug\netcoreapp3.1\Coding prac.csproj.CoreCompileInputs.cache
+C:\Users\priyadarshini roy\source\repos\Coding prac\Coding prac\obj\Debug\netcoreapp3.1\Coding prac.dll
+C:\Users\priyadarshini roy\source\repos\Coding prac\Coding prac\obj\Debug\netcoreapp3.1\Coding prac.pdb
+C:\Users\priyadarshini roy\source\repos\Coding prac\Coding prac\obj\Debug\netcoreapp3.1\Coding prac.genruntimeconfig.cache
