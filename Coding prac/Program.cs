@@ -6,12 +6,22 @@ namespace Coding_prac
     {
         static void Main(string[] args)
         {
-            int p = 1;
+            ///Constraints
+            int is_part_time = 1;
+            int is_full_time = 2;
             int emp_rate = 20;
-            int emphrs;
+
+            ///Variables
+            int emphrs=0;
+            int empwage = 0;
+
             Random random = new Random();
             int empcheck = random.Next(0, 2);
-            if (empcheck == p)
+            if (empcheck == is_part_time)
+            {
+                emphrs = 4;
+            }
+            else if(empcheck == is_full_time)
             {
                 emphrs = 8;
             }
@@ -19,8 +29,8 @@ namespace Coding_prac
             {
                 emphrs = 0;
             }
-            int empwage = emphrs * emp_rate;
-            Console.WriteLine(empwage);
+            empwage = emphrs * emp_rate;
+            Console.WriteLine("Empployee wage"+empwage);
 
         }
     }
